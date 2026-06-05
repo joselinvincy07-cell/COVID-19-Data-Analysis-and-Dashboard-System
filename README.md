@@ -56,14 +56,13 @@ The project utilizes the Kaggle COVID-19 dataset and provides meaningful insight
 <img width="1094" height="649" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/339b0627-e71a-4d15-a371-0b16b679a9b1" />
 
 ### COVID Case Distribution
-<img width="559" height="564" alt="Screenshot (475)" src="https://github.com/user-attachments/assets/1300db98-ff9e-4e35-9b93-c29fb8b73f1a" />
+<img width="692" height="574" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/8d42c853-b508-47ef-aab9-87e0f05f19bb" />
 
 ### Confirmed vs Deaths
-<img width="789" height="522" alt="Screenshot (476)" src="https://github.com/user-attachments/assets/c5af6f62-c9c8-40c9-8793-4ce61b3c41ee" />
+<img width="998" height="539" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/74fb029e-51e5-4a2a-bc09-42a1d58c57cf" />
 
 ### Correlation Heatmap
-<img width="716" height="500" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/cbd3c35d-b77c-4ead-aaca-70cecbe5bbb7" />
-
+<img width="838" height="519" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/39e95a40-4b9a-452e-8d0c-00ef361b31ac" />
 
 ## Conclusion
 
